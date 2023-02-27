@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fXg76qinqFEQyUJkgUaqEgwmiDBLSvVsqRwXw6REfl4=",
+  "Source": "EF-MySQL",
+  "BasePath": "_content/EF-MySQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

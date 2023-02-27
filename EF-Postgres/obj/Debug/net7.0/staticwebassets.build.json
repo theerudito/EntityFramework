@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YXxsTwUagIltqWEfauX/ji+L2FebT/Njl0NlLISlMA4=",
+  "Source": "EF-Postgres",
+  "BasePath": "_content/EF-Postgres",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

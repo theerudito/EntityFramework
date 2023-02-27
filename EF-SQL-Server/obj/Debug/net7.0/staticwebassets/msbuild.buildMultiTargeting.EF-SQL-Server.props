@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EF-SQL-Server.props" />
+</Project>
