@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1LV6BLDoBadJdBJipdqIM7LpB7FIe1f63qKutjx95XQ=",
+  "Source": "EF-SQLite",
+  "BasePath": "_content/EF-SQLite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

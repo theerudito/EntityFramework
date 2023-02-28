@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\ewine\\OneDrive\\Escritorio\\asp\\EntityFramework\\EF-Postgres\\obj\\Debug\\net7.0\\project.razor.json",
-  "FilePath": "c:\\Users\\ewine\\OneDrive\\Escritorio\\asp\\EntityFramework\\EF-Postgres\\EF-Postgres.csproj",
+  "SerializedFilePath": "c:\\Users\\ewine\\OneDrive\\Escritorio\\asp\\EntityFramework\\EF-SQLite\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\ewine\\OneDrive\\Escritorio\\asp\\EntityFramework\\EF-SQLite\\EF-SQLite.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,7 +18642,7 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "EF_Postgres",
+  "RootNamespace": "EF_SQLite",
   "Documents": [],
   "SerializationFormat": "0.3"
 }
